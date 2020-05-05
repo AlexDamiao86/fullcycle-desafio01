@@ -28,4 +28,4 @@ docker push alexdamiao86/maratonadesafio01:1.0
 
 - Comando para executar o container docker que está em repositório remoto
 
-docker run -p 3000:3000 alexdamiao86/maratonadesafio01:1.0
+docker run -p 3000:3000 alexdamiao86/maratonadesafio01:latest
