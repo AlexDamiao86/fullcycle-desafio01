@@ -7,5 +7,6 @@ app.get('/', (request, response) => {
 });
 
 app.listen(3000, () => {
-  console.log('Webserver has started! Listening port 3000...')
+  console.log('Webserver has started! Listening port 3000...');
+  console.log('https://github.com/AlexDamiao86/fullcycle-desafio01/');
 });
